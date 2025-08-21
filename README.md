@@ -1,4 +1,4 @@
-# file-organizer(WIP)
+# file-organizer
 A Python based file management tool. It scans a directory, and automatically organizes files into categorized folders. It sorts files by extension into categories such as images, docs, audio, video, etc. I built this to practice working with files and folders, loops, conditionals, and moving files with Python.
 
 ## features
